@@ -81,8 +81,6 @@ document.getElementById("bar").addEventListener("click", function(){
 })
 
 function showNav(){
-  // clicked++;
-  // console.log(clicked);
   document.getElementById("categories").style.visibility = "visible";
   document.getElementById("logo").style.visibility = "hidden";
   document.getElementById("categories").style.marginTop = "-70px";
