@@ -143,3 +143,7 @@ function showNews(){
 document.getElementById("firstArticle").addEventListener("click", function(){
   window.location.href = "https://www.stylecraze.com/articles/office-makeup-the-right-way/";
 })
+
+document.getElementById("firstArticle").addEventListener("click", function(){
+  window.location.href = "./articles/makeupArticle.html";
+})
