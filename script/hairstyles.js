@@ -136,3 +136,7 @@ function showNews(){
 document.getElementById("logo").addEventListener("click", function(){
   window.location.href = "index.html"
 })
+
+document.getElementById("firstArticle").addEventListener("click", function(){
+  window.location.href = "hairstylesArticle.html";
+})
