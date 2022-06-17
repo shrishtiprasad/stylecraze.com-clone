@@ -265,3 +265,8 @@ document.getElementById("skincareArticle").addEventListener("click", function(){
 document.getElementById("healthArticle").addEventListener("click", function(){
     window.location.href = "https://www.stylecraze.com/articles/5-fruits-for-glowing-skin/";
 })
+
+
+document.getElementById("logo").addEventListener("click", function(){
+    window.location.href = "index.html"
+})

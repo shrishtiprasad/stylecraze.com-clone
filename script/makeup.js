@@ -147,3 +147,7 @@ document.getElementById("firstArticle").addEventListener("click", function(){
 document.getElementById("firstArticle").addEventListener("click", function(){
   window.location.href = "./articles/makeupArticle.html";
 })
+
+document.getElementById("logo").addEventListener("click", function(){
+  window.location.href = "index.html"
+})

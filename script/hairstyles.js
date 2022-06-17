@@ -132,3 +132,7 @@ document.getElementById("newsHover").addEventListener("click", function(){
 function showNews(){
   window.location.href = "news.html";
 }
+
+document.getElementById("logo").addEventListener("click", function(){
+  window.location.href = "index.html"
+})
